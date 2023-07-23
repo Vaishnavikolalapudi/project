@@ -12,9 +12,10 @@ html{
 }
 
 .bannerBgImage{
+    background-color:pink;
     height: 100vh;
-    width: 100%;
-    background-image: url("images/bgimage1.jpg");
+    width: 100;
+    background-image: url("bgimage1.jpg");
     background-size: cover;
    
 
