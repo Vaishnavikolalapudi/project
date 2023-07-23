@@ -14,7 +14,7 @@ html{
 .baBgImage{
     height: 100vh;
     width: 100;
-    background-image: url("https://vui.unsplash.com/resize?height=256&quality=60&type=auto&url=https%3A%2F%2Fsearched-images.s3.us-west-2.amazonaws.com%2F0669c575-29d1-4be8-9fd7-733acd78d0e0%3FX-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAQ4GRIA4Q6KECABEK%252F20230723%252Fus-west-2%252Fs3%252Faws4_request%26X-Amz-Date%3D20230723T110719Z%26X-Amz-Expires%3D86400%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Signature%3Dd7066c8f6d4a30c8e541a4c1afb7b6c7dab62b7e0c1b267fc8b6e9ad8f237700&sign=fAJrJgVd-a7B5fd5MyYDYVc4uDvGG783lCkWRpgwu_o");
+    background-image: url("bgimage1.jpg");
     background-size: cover;
 }
 .bannerText{
